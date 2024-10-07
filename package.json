@@ -6,9 +6,9 @@
   "license": "SEE LICENSE IN license",
   "schematics": "./schematics/collection.json",
   "dependencies": {
-    "@syncfusion/ej2-base": "~16.2.50",
-    "@syncfusion/ej2-ng-base": "~16.2.52",
-    "@syncfusion/ej2-grids": "~16.2.52"
+    "@syncfusion/ej2-base": "*",
+    "@syncfusion/ej2-ng-base": "*",
+    "@syncfusion/ej2-grids": "*"
   },
   "devDependencies": {
     "rxjs": "5.0.0 - 5.5.10",
